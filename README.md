@@ -1,5 +1,5 @@
 # Unity-cube-run-game
-First 3Dgame i made on Unity. Basic 3D game were you have to avoid obstacles.
+First 3D game i made on Unity. Basic 3D game were you have to avoid obstacles.
 
 Since Unity's Libary folder is too large for GitHub i put links to a google drive.
 
